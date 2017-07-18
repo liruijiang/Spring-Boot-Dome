@@ -7,3 +7,4 @@ application.properties和application.yml文件可以放在一下四个位置：
 内置，在config包内
 内置，在Classpath根目录
 同样，这个列表按照优先级排序，也就是说，src/main/resources/config下application.properties覆盖src/main/resources下application.properties中相同的属性，如图：
+http://7xqch5.com1.z0.glb.clouddn.com/springboot2-1.jpg
